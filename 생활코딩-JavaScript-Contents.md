@@ -1,8 +1,8 @@
 **생활코딩-Web2-JavaScript**
 
-<br>1. 토픽 목록
+<br>~~1. 토픽 목록
 <br>2. 수업의 목적
-<br>3. HTML과 JavaScript의 만남 1 (script 태그)
+<br>3. HTML과 JavaScript의 만남 1 (script 태그)~~ 21.6.24
 <br>4. HTML과 JavaScript의 만남 2 (이벤트)
 <br>5. HTML과 JavaScript의 만남 3 (콘솔)
 <br>6. 데이터타입 - 문자열과 숫자
