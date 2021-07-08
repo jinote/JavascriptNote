@@ -2,12 +2,12 @@
 
 <br>~~1. 토픽 목록
 <br>2. 수업의 목적
-<br>3. HTML과 JavaScript의 만남 1 (script 태그)~~ 21.6.24 completed
-<br>4. HTML과 JavaScript의 만남 2 (이벤트)
+<br>3. HTML과 JavaScript의 만남 1 (script 태그)~~<br><code>21.6.24 completed</code>
+<br>~~4. HTML과 JavaScript의 만남 2 (이벤트)
 <br>5. HTML과 JavaScript의 만남 3 (콘솔)
 <br>6. 데이터타입 - 문자열과 숫자
 <br>7. 변수와 대입 연산자
-<br>8. 웹브라우저 제어
+<br>8. 웹브라우저 제어 ~~<br><code>21.7.8 completed</code>
 <br>9. CSS 기초
 <br>10. 제어할 태그 선택하기
 <br>11. 프로그램, 프로그래밍, 프로그래머
